@@ -1,7 +1,7 @@
 import telebot
 
 # criação do bot com o token
-bot = telebot.TeleBot('token do bot n vai pro github')
+bot = telebot.TeleBot('6035462268:AAGHAbn4sDsEC6cXbtj04ZWCKERo0EbuRdQ')
 
 # função para lidar com o comando /start
 @bot.message_handler(commands=['start'])
